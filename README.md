@@ -8,7 +8,15 @@ npm instal csv-parse
 ```
 
 # configure
-1. add or change the csv file with data of your own; save it to reek.tsv
+
+## check constants 
+inputFile
+outputFile
+col_num_start
+col_num_end
+sample
+
+1. add or change the tsv file with data of your own
 2. Choose function in source code
 
 **findOverlap()**
